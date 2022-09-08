@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#E3736B</color>
+    <color name="purple_500">#DF5684</color>
+    <color name="purple_700">#A51848</color>
+    <color name="farklibuton">#473070</color>
+    <color name="farklibutonyazirengi">#0B031B</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="edittextarkaplan">#772943</color>
+
+</resources>
